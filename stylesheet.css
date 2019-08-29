@@ -12,6 +12,9 @@ td,th {
 th {
   background-color: #c0c0c0;
 }
+.selected {
+  background-color: #c0c0c0;
+}
 h3 {
   color: #ff0000;
 }
